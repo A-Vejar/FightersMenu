@@ -1,0 +1,67 @@
+Adam Rose,Luchador,Jobber,RAW,106,101,104,103,POW
+Andre the Giant,Luchador,Leyenda,-,112,111,105,108,POW
+Batista,Luchador,Leyenda,-,115,113,110,108,POW
+Big Boss Man,Luchador,Leyenda,-,111,113,106,108,TGH
+Big E,Luchador,Midcarter,RAW,108,107,101,104,POW
+Big Show,Luchador,Jobber,RAW,113,111,106,108,POW
+Booker T,Luchador,Leyenda,-,110,108,112,113,CHA
+Bray Wyatt,Luchador,Superestrella,Smackdown,112,110,108,113,CHA
+Brian Knobbs,Luchador,Midcarter,-,107,108,105,110,CHA
+Brie Bella,Diva,Midcarter,Smackdown,108,110,113,111,SPD
+Brock Lesnar,Luchador,Superestrella,RAW,117,114,112,110,POW
+Bruno Sammartino,Luchador,Leyenda,-,113,115,110,112,TGH
+Cameron,Diva,Jobber,NXT,101,103,106,104,SPD
+Chris Jericho,Luchador,Superestrella,RAW,108,110,113,112,SPD
+Daniel Bryan,Luchador,Superestrella,Smackdown,109,111,114,116,CHA
+Dean Ambrose,Luchador,Superestrella,Smackdown,110,114,113,111,TGH
+Diamond Dallas Page,Luchador,Leyenda,-,111,110,113,114,CHA
+Dolph Ziggler,Luchador,Midcarter,Smackdown,107,108,111,110,SPD
+Edge,Luchador,Leyenda,-,114,109,116,111,SPD
+Emma,Diva,Midcarter,NXT,103,104,101,106,CHA
+Erick Rowan,Luchador,Midcarter,Smackdown,107,106,104,103,POW
+Eve,Diva,Jobber,NXT,105,103,102,107,CHA
+Goldust,Luchador,Midcarter,RAW,103,108,105,110,CHA
+Hideo Itami,Luchador,Midcarter,NXT,104,106,107,103,SPD
+Hillbilly Jim,Luchador,Midcarter,-,107,108,104,105,TGH
+Jerry Sags,Luchador,Midcarter,-,106,108,103,105,TGH
+Jey Uso,Luchador,Midcarter,Smackdown,105,103,106,108,CHA
+Jimmy Uso,Luchador,Midcarter,Smackdown,103,105,108,106,SPD
+John Cena,Luchador,Superestrella,Smackdown,116,113,110,117,CHA
+Kalisto,Luchador,Jobber,Smackdown,103,106,107,100,SPD
+Kane,Luchador,Midcarter,Smackdown,111,109,104,106,POW
+Kevin Owens,Luchador,Superestrella,RAW,109,108,105,106,POW
+King Barrett,Luchador,Jobber,RAW,109,108,105,106,POW
+Kofi Kingston,Luchador,Midcarter,RAW,102,107,109,104,SPD
+Koko B. Ware,Luchador,Midcarter,-,107,105,108,104,SPD
+Lex Luger,Luchador,Leyenda,-,111,109,104,106,POW
+Luke Harper,Luchador,Midcarter,Smackdown,106,105,103,102,POW
+Mark Henry,Luchador,Jobber,RAW,108,107,101,103,POW
+Naomi,Diva,Jobber,Smackdown,108,105,104,107,POW
+Natalya,Diva,Midcarter,Smackdown,108,105,103,106,POW
+Neville,Luchador,Midcarter,RAW,108,105,110,103,SPD
+Nikki Bella,Diva,Superestrella,Smackdown,113,112,109,110,POW
+Paige,Diva,Superestrella,RAW,111,113,108,110,TGH
+R-Truth,Luchador,Jobber,RAW,103,104,106,107,CHA
+Randy Orton,Luchador,Superestrella,Smackdown,113,111,114,110,SPD
+Ric Flair,Luchador,Leyenda,-,118,115,113,120,POW
+Rick Rude,Luchador,Leyenda,-,116,113,111,118,CHA
+Roman Reigns,Luchador,Superestrella,RAW,111,109,106,107,POW
+Rusev,Luchador,Midcarter,RAW,109,107,106,104,POW
+Ryback,Luchador,Midcarter,Smackdown,109,106,104,102,POW
+Seth Rollins,Luchador,Superestrella,RAW,110,112,115,113,SPD
+Shawn Michaels,Luchador,Leyenda,-,112,113,115,116,CHA
+Sheamus,Luchador,Midcarter,RAW,109,107,104,106,POW
+Sin Cara,Luchador,Jobber,RAW,105,102,106,100,SPD
+Stardust,Luchador,Midcarter,Smackdown,104,106,107,109,CHA
+Stephanie McMahon,Diva,Superestrella,RAW,114,107,109,113,POW
+Steve Austin,Luchador,Leyenda,-,118,118,112,113,TGH
+Summer Rae,Luchador,Jobber,NXT,107,102,104,105,POW
+Ted DiBiase,Luchador,Leyenda,-,117,113,115,118,CHA
+Terry Funk,Luchador,Leyenda,-,105,112,108,111,CHA
+The Miz,Luchador,Superestrella,Smackdown,109,104,106,111,CHA
+The Rock,Luchador,Leyenda,-,116,112,114,119,CHA
+Triple H,Luchador,Leyenda,RAW,117,112,110,115,POW
+Ultimate Warrior,Luchador,Leyenda,-,114,110,113,111,POW
+Undertaker,Luchador,Leyenda,RAW,116,119,112,114,TGH
+Xavier Woods,Luchador,Midcarter,RAW,106,104,109,107,SPD
+Yokozuna,Luchador,Leyenda,-,115,113,110,112,POW
